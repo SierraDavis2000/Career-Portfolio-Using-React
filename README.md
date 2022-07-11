@@ -6,12 +6,14 @@ A portfoilo of some of the projects I have completed with deployed links and git
 
 ## User Story
 
-AS AN employer looking for candidates with experience building single-page applications
-I WANT to view a potential employee's deployed React portfolio of work samples
-SO THAT I can assess whether they're a good candidate for an open position
+- AS AN employer looking for candidates with experience building single-page applications
+- I WANT to view a potential employee's deployed React portfolio of work samples
+- SO THAT I can assess whether they're a good candidate for an open position
 
 ## Screenshots
 
 
 
 ## Deployed Website
+
+http://SierraDavis2000.github.io/Career-Portfolio-Using-React
