@@ -15,23 +15,23 @@ function Project(props) {
 
 
 	return (
-		<Card style={{ width: "18rem" }}>
+		<Card className="card" style={{ width: "18rem" }}>
 			<Card.Img
 				variant="top"
                 //add image 
 				src={require(`../assets/images/${image}`)}
 				className="card-image"
 			/>
-			<div className="center">
+			<div className="text-center">
 				<Card.Body>
 					<Card.Title className="card-title">{name}</Card.Title>
 					<Card.Text className="card-text">{description}</Card.Text>
 					<Card.Link href={deployLink} target="_blank" className="card-link">
-						{name} Link to Deployed App
+						Link to Deployed App
 					</Card.Link>
 					<br></br>
 					<Card.Link href={gitRepo} target="_blank" className="card-link">
-						{name} Link to Project Github
+						Link to Project Github
 					</Card.Link>
 				</Card.Body>
 			</div>

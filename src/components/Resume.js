@@ -3,15 +3,15 @@ import React from "react";
 function Resume() {
 	return (
 		<section>
-			<div className="center">
-				<h1 className="page-header">Sierra Davis' Resume</h1>
+			<div className="text-center">
+				<h1 className="page-header">My Resume</h1>
 			</div>
-			<div className="bottom-spacing">
+			<div className="text-center bottom-spacing">
 				<a href={require("../assets/files/Sierra Davis' Resume.pdf")} download>
-					<h4>Download my Resume</h4>
+					<h5>Click Here to Download my Resume</h5>
 				</a>
 			</div>
-			<div>
+			<div className = 'text-center'>
                 <h4> Summary of My Proficiencies: </h4>
 				<h5>Front-End</h5>
 				<ol>

@@ -38,15 +38,18 @@ function Portfolio() {
 	];
 
 	return (
-		<section>
+		<section >
 			<div className="center">
-				<h1 className="page-header">Sierra's Portfolio</h1>
+				<h1 className="page-header">Sierra's Project Portfolio: </h1>
 			</div>
+			<br></br>
+			<br></br>
 			<div>
 				<ul className="flex-row mobile-row">
 					<li className="padding">
 						<Project projects={projects[0]}></Project>
 					</li>
+				
 					<li className="padding">
 						<Project projects={projects[1]}></Project>
 					</li>
