@@ -38,7 +38,7 @@ function Portfolio() {
 		{
 			name: 'Networking Sustainability',
 			description: 'A networking and event posting website with a focus on ecological gardening and sustainability in the Ottawa Region.',
-			image: 'eventapp-image.png',
+			image: 'eventapp-image.PNG',
 			github: 'https://github.com/jennasaikaly/sustainability-event-app',
 			deployed: 'http://networking-sustainability-app.herokuapp.com/',
 		}
