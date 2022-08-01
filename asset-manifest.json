@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/Career-Portfolio-Using-React/static/css/main.74e7e7d9.css",
-    "main.js": "/Career-Portfolio-Using-React/static/js/main.c117b2d1.js",
+    "main.js": "/Career-Portfolio-Using-React/static/js/main.93dd5847.js",
     "static/js/787.0d88817e.chunk.js": "/Career-Portfolio-Using-React/static/js/787.0d88817e.chunk.js",
+    "static/media/eventapp-image.PNG": "/Career-Portfolio-Using-React/static/media/eventapp-image.02f4a08956b72b8d815f.PNG",
     "static/media/Sierra Davis' Resume.pdf": "/Career-Portfolio-Using-React/static/media/Sierra Davis' Resume.f12884e04c1f606c8d7e.pdf",
     "static/media/garden-image.png": "/Career-Portfolio-Using-React/static/media/garden-image.c4bad1c2090f1a294878.png",
     "static/media/password-image.png": "/Career-Portfolio-Using-React/static/media/password-image.00788a4f34312c6ef4f4.png",
@@ -11,11 +12,11 @@
     "static/media/notetaker-image.png": "/Career-Portfolio-Using-React/static/media/notetaker-image.749103ecd4bfa0337c6c.png",
     "index.html": "/Career-Portfolio-Using-React/index.html",
     "main.74e7e7d9.css.map": "/Career-Portfolio-Using-React/static/css/main.74e7e7d9.css.map",
-    "main.c117b2d1.js.map": "/Career-Portfolio-Using-React/static/js/main.c117b2d1.js.map",
+    "main.93dd5847.js.map": "/Career-Portfolio-Using-React/static/js/main.93dd5847.js.map",
     "787.0d88817e.chunk.js.map": "/Career-Portfolio-Using-React/static/js/787.0d88817e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74e7e7d9.css",
-    "static/js/main.c117b2d1.js"
+    "static/js/main.93dd5847.js"
   ]
 }
