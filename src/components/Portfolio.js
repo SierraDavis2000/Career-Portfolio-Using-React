@@ -35,6 +35,13 @@ function Portfolio() {
 			github: 'https://github.com/SierraDavis2000/Note-Taker-Application-Featuring-Express.js',
 			deployed: 'https://whispering-woodland-26598.herokuapp.com/',
 		},
+		{
+			name: 'Networking Sustainability',
+			description: 'A networking and event posting website with a focus on ecological gardening and sustainability in the Ottawa Region.',
+			image: 'eventapp-image.png',
+			github: 'https://github.com/jennasaikaly/sustainability-event-app',
+			deployed: 'http://networking-sustainability-app.herokuapp.com/',
+		}
 	];
 
 	return (
